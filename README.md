@@ -10,3 +10,9 @@ It extract jokes from pyjokes library
 
 ![pyjokes](https://user-images.githubusercontent.com/92254479/136695909-0eef60dd-5193-4815-8fe4-9aa1e6c226a3.png)
 
+## Using PyJokes to get random jokes in GUI
+
+![gui infinite jokes](https://user-images.githubusercontent.com/92254479/136696780-f2072364-8246-493c-b73c-c0ef45e6abb1.png)
+
+
+
