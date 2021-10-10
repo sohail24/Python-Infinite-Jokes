@@ -8,4 +8,5 @@ It extract jokes from pyjokes library
 
 ## Using PyJokes to get random jokes in CLI
 
-![Screenshot188](https://user-images.githubusercontent.com/92254479/136694940-beec4b06-3494-4958-bbe5-a344a898249e.png)
+![pyjokes](https://user-images.githubusercontent.com/92254479/136695909-0eef60dd-5193-4815-8fe4-9aa1e6c226a3.png)
+
