@@ -6,3 +6,7 @@ It extract jokes from pyjokes library
 
 ![aa](https://user-images.githubusercontent.com/88443812/136047898-263358e8-05f8-426b-9244-efbd7a09713f.jpg)
 
+## Using PyJokes to get random jokes in CLI
+
+![pyjokes](https://user-images.githubusercontent.com/92254479/136695909-0eef60dd-5193-4815-8fe4-9aa1e6c226a3.png)
+
