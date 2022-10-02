@@ -1,9 +1,11 @@
+## Importing essenetial library
 import tkinter as tk
 from tkinter import ttk, BOTTOM, font
 import pyjokes
 
+## Calling Tkinter for GUI object frame
 root = tk.Tk()
-root.geometry("1366x768+-2+0")
+root.geometry("1366x768+-2+0")          
 root.config(bg = '#4E648E')
 root.title("Infinite Jokes | Mini GUI Project By Sohail Ahmad")
 
@@ -20,7 +22,7 @@ button_clk.place(x = 25, y = 375, height = 50, relwidth = 0.95 )
 #button_clk.pack()
 
 def Close():
-    root.destroy()
+    root.destroy()  ## this will close the gui 
 
 # Button for closing
 myFont = font.Font(family='Helvetica', size=10, weight='bold')
